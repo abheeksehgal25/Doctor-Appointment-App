@@ -19,7 +19,7 @@ const Navbar = () => {
   }
 
   const goToUserPanel = () => {
-    window.location.href = 'http://localhost:5173/'
+    window.location.href = 'https://doctor-appointment-app-2-yge4.onrender.com'
   }
 
   const isOnDashboard =
